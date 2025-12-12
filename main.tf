@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket = "ghost-terraform-bucket-6-11-2023-01-12"
+    bucket = "ghost-terraform-bucket-13-12-2025"
     key    = "terraform.tfstate"
     region = "eu-west-1"
   }
